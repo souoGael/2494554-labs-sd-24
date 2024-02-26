@@ -1,6 +1,7 @@
 body{
-    max-width: 1466px;
     margin: 0 auto;
+    padding: 0;
+    
 }
 
 li,.slogan,a{
@@ -17,7 +18,7 @@ header{
     display: flex;
     justify-content: flex-end;
     align-items: center;
-    border-width: 100px;
+    
 }
 
 .slogan{
@@ -58,6 +59,14 @@ header{
     text-align: center;
 }
 
+figure{
+    border-width: 1px;
+    border-style: solid;
+    border-color: gray;
+    padding: 10px;
+    text-align: center;
+}
+
 main{
     min-height: calc(100vh - 50px - 54px);
 }
@@ -68,5 +77,5 @@ footer{
     color: white;
     padding-top: 2px;
     padding-bottom: 2px;
-    border-width: 100px;
+   
 }
