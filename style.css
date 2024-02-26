@@ -52,7 +52,7 @@ header{
 .box{
     border-width: 1px;
     border-style: solid;
-    border-color: #141617;
+    border-color: gray;
     padding: 10px;
     text-align: center;
 }
