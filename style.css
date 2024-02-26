@@ -63,8 +63,9 @@ figure{
     border-width: 1px;
     border-style: solid;
     border-color: gray;
-    padding: 10px;
     text-align: center;
+    margin: 0%;
+    margin-bottom: 20px;
 }
 
 main{
